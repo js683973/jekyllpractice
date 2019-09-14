@@ -12,4 +12,4 @@ To start this blog, I referred to instructions on a website: https://opensource.
 
 For doing the Ubuntu assignment, it was more difficult and harder than I expected. Now I have total three Linux systems installed on my VirtualBox: Ubuntu for this class, and the others - CentOS and Kali linux. Computer is always interesting for me, but I’d never say it is easy to go.
 
-* Hugo failed. I don't know why. Even now I cannot publish my website. So instead of Hugo, I decided to go with Jekyll because it is more Github-friendly. Also instead of using a vi editor on Linux (Ubuntu), now I'm editing this file content on Github website itself.
+* Hugo failed. I don't know why. Even now I cannot publish my own blog. So instead of Hugo, I decided to go with Jekyll because it is more Github-friendly. Also instead of using a vi editor on Linux (Ubuntu), now I'm editing this file content on Github website itself.
